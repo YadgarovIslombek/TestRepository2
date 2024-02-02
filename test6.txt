@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Hello from func2 branch
 another file user2
 
 Asadbek edit this file
 Conflict test
+=======
+Hello from func1 branch
+>>>>>>> 254797274987d1ba1e77bd5560f84f40c578ae44
