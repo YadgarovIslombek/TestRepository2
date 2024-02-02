@@ -2,3 +2,4 @@ Hello from func2 branch
 another file user2
 
 Asadbek edit this file
+Conflict test
