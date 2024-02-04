@@ -5,3 +5,6 @@ line from user1
 another code from Mustafo
 
 Asadbek
+
+Bu feature1 da yozildi
+
